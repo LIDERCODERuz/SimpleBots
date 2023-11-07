@@ -1,2 +1,2 @@
 # WikipediaBot
-My first python telegram bot
+- Bu mening python dasturlash tilida yaratgan birinchi botim!
